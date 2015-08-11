@@ -1,0 +1,11 @@
+classes/
+lib/
+.git/
+.settings/
+.project
+.classpath
+target/
+cache/
+lucene/
+u/
+logs/
